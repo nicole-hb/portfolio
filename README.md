@@ -1,4 +1,4 @@
-# Nicole Heyn-Brontis Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/nicole-hb/developer-portfolio?color=blue)](https://github.com/nicole-hb/portfolio/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/nicole-hb/portfolio)](https://github.com/nicole-hb/portfolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Nicole Heyn-Brontis Portfolio ⚡️ [![GitHub stars](https://img.shields.io/github/stars/nicole-hb/portfolio)](https://github.com/nicole-hb/portfolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio for Teachers!
 
