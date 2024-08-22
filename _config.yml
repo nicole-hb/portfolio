@@ -1,8 +1,8 @@
 # site settings
-title: Portfolio
-subtitle: Nicole Heyn-Brontis
+title: My
+subtitle: Portfolio
 email: heynbron@gmail.com
-description: My Portfolio.
+description: Personal and Professional Portfolio.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
