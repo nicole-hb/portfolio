@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Personal
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: 'Enjoying all the sunrises and sunsets of life'
+image: assets/images/pic06.jpg
 nav-menu: true
 ---
 

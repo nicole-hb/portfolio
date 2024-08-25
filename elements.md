@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Career
-image: assets/images/pic01.jpg
+title: Professional
+description: 'A dedicated paraprofessional with a passion for supporting middle school students and contributing to their educational journey'
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
@@ -12,12 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Career</h1>
+			<h1>Professional Experience</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Introduction</h2>
+<p>I’m Nicole, currently working as a paraprofessional at <a href="https://swanson.jeffcopublicschools.org/">Swanson Middle School</a> in Arvada, Colorado. With a background in Para education and a passion for improving education system in US, I strive to create a supportive and engaging learning environment for middle school students. I hold a Bachelor's degree in Ecology and Evolutionary Biology from University of Colorado Boulder. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>

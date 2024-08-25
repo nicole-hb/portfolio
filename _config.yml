@@ -2,7 +2,7 @@
 title: My
 subtitle: Portfolio
 email: heynbron@gmail.com
-description: Personal and Professional Portfolio.
+description: Passionate Educator and Lifelong Learner
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -25,7 +25,7 @@ socials:
   GitHub: https://github.com/nicole-hb
   GitLab:
   Google-Plus:
-  Instagram:
+  Instagram: https://www.instagram.com/param.somewhere/
   LinkedIn: https://www.linkedin.com/in/nicole-heyn-brontis
   Twitter: 
   Facebook:
